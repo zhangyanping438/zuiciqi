@@ -1,0 +1,10 @@
+.indexwrap h2,.indexwrap p{font-size:12px;margin-bottom:10px;}
+.indexwrap h2{margin-top:0;}
+.indexwrap h2 a{color:#656565;}
+.indexwrap a{color:#999;font-size:12px;text-decoration:none;}
+.view{margin-bottom:50px;}
+p{color:#999;}
+ul{margin-left:0;padding:0;}
+li{list-style:none;}
+.col-ei{width:12.5%;float: left;position: relative;min-height: 1px;padding-right: 5px;padding-left: 5px;}
+.goodshop .col-ei{margin-bottom:10px;}
